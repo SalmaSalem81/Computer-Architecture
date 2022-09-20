@@ -1,0 +1,6 @@
+ldi r0 30 
+src r0 1 
+beqz r2 1 
+ldi r2 3 
+ldi r3 4
+ldi r4 5
